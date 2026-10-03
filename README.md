@@ -1,3 +1,5 @@
+SARANSH MISHRA                   BC2025189
+
 PROGRAM 1:- #include <stdio.h>
 
 #define MAX 5
